@@ -26,9 +26,23 @@ Spring Security:
 Spring Security est un Framework de sécurité léger qui fournit une authentification et un support d’autorisation afin de sécuriser les applications Spring. Il est livré avec des implémentations d’algorithmes de sécurité populaires.
 
 
--L'application a pour objectif de gerer les utilisateurs, grace au opération CRUD (Create, Read, Update, Delete). L'interface utilisation se représente comme suit:
-
+-L'application a pour objectif de gerer les utilisateurs, grace au opération CRUD (Create, Read, Update, Delete). L'interface utilisateur se représente comme suit:
 
 ![image](https://user-images.githubusercontent.com/93864104/232344419-6caaa1d1-ba95-4fdc-bafc-3b27d488754e.png)
+
+-L'administrateur a la possibilité de creer, modifier, visualiser et supprimer des utilisateurs.
+SUPPRIMER:
+![image](https://user-images.githubusercontent.com/93864104/232345084-486ff2db-e603-40bd-8204-f71e6c69787e.png)
+
+MODIFIER:
+![image](https://user-images.githubusercontent.com/93864104/232345115-f290ebe8-fe64-4d78-9607-40b9588f5a1d.png)
+
+CREER:
+![image](https://user-images.githubusercontent.com/93864104/232345135-1ef6e7fa-8351-4183-abaa-1cf938760a99.png)
+
+
+
+
+
 
 
