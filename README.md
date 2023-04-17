@@ -1,5 +1,6 @@
 # Atelier4_JEE
 Travail à faire:
+
 Récupérer le code source de l'application non sécurisé qui permet de gérer les patients (résultat de l'activité pratique N°3). Le code source de cette application se trouve dans le repository suivant : https://github.com/mohamedYoussfi/unsecured-hospital-app.git.
 Sécuriser cette application en intégrant un système d'authentification basé sur Spring security avec les trois stratégies : InMemoryAuthentication, JdbcAuthentication et UserDetailsService.
 Vidéo à utiliser comme ressource principale : https://www.youtube.com/watch?v=7VqpC8UD1zM
@@ -27,6 +28,7 @@ Spring Security est un Framework de sécurité léger qui fournit une authentifi
 
 
 -L'application a pour objectif de gerer les utilisateurs, grace aux opération CRUD (Create, Read, Update, Delete).
+
 -L'interface suivante permet à un utilisateur normal ou à un administrateur de se connecter:
 ![image](https://user-images.githubusercontent.com/93864104/232494385-e76d9da5-cb23-485b-9f63-0535934fdaac.png)
 
