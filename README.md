@@ -35,6 +35,9 @@ Spring Security est un Framework de sécurité léger qui fournit une authentifi
 -Un utilisateur connecté a la possibilité de visualiser les patients:
 ![image](https://user-images.githubusercontent.com/93864104/232344419-6caaa1d1-ba95-4fdc-bafc-3b27d488754e.png)
 
+-Il est possible d'effectuer des recherches à partir des noms des patients:
+![image](https://user-images.githubusercontent.com/93864104/232497124-ae759105-a319-4c94-bb21-4c755ddffc56.png)
+
 -L'administrateur a la possibilité de creer, modifier, visualiser et supprimer des utilisateurs.
 SUPPRIMER:
 ![image](https://user-images.githubusercontent.com/93864104/232345084-486ff2db-e603-40bd-8204-f71e6c69787e.png)
