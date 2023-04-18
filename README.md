@@ -54,6 +54,10 @@ MODIFIER:
 
 ![image](https://user-images.githubusercontent.com/93864104/232754830-036736ff-aa5a-4d9a-aed8-206332770185.png)
 
+![image](https://user-images.githubusercontent.com/93864104/232798160-6134f737-0100-4223-a569-12769d67a6d1.png)
+
+![image](https://user-images.githubusercontent.com/93864104/232798321-740b4d6a-6dff-4540-b3b9-7c606fe42951.png)
+
 CREER:
 ![image](https://user-images.githubusercontent.com/93864104/232755609-709cb498-f4a7-4a49-821d-9f67733ff115.png)
 
