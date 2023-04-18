@@ -55,8 +55,12 @@ MODIFIER:
 ![image](https://user-images.githubusercontent.com/93864104/232754830-036736ff-aa5a-4d9a-aed8-206332770185.png)
 
 CREER:
-![image](https://user-images.githubusercontent.com/93864104/232345135-1ef6e7fa-8351-4183-abaa-1cf938760a99.png)
+![image](https://user-images.githubusercontent.com/93864104/232755609-709cb498-f4a7-4a49-821d-9f67733ff115.png)
 
+![image](https://user-images.githubusercontent.com/93864104/232756127-76508815-3ee4-4897-ad09-08ebe9b8f898.png)
+
+-L'ajout d'un nouveau patient Rana:
+![image](https://user-images.githubusercontent.com/93864104/232756364-a15183cf-88c9-4bbc-8fd0-6334eb7882e3.png)
 
 
 
