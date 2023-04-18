@@ -66,7 +66,8 @@ CREER:
 -L'ajout d'un nouveau patient Rana:
 ![image](https://user-images.githubusercontent.com/93864104/232756364-a15183cf-88c9-4bbc-8fd0-6334eb7882e3.png)
 
-
+-Patient ajouté:
+![image](https://user-images.githubusercontent.com/93864104/232798784-f262def4-0098-403f-9399-cfe9b6ef5dc0.png)
 
 
 
