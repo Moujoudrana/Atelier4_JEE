@@ -41,19 +41,18 @@ Spring Security est un Framework de sécurité léger qui fournit une authentifi
 -L'interface administrateur se presente comme suit:
 ![image](https://user-images.githubusercontent.com/93864104/232751247-5db531a5-63e5-4b20-aa00-df7d0250d18d.png)
 
--Il est impossible qu'un administrateur supprime un patient:
+-L'administrateur a la possibilité de creer, modifier, visualiser et supprimer des utilisateurs.
+
+SUPPRIMER:
 ![image](https://user-images.githubusercontent.com/93864104/232754128-fe90033c-2606-4736-b6f5-8b303d2075b2.png)
 
 -L'utilisateur avec l'id=6 est supprimé:
 ![image](https://user-images.githubusercontent.com/93864104/232754221-c1ecdb57-4501-4add-a3d0-9d1534e5d92d.png)
 
--L'administrateur a la possibilité de creer, modifier, visualiser et supprimer des utilisateurs.
-
-SUPPRIMER:
-![image](https://user-images.githubusercontent.com/93864104/232345084-486ff2db-e603-40bd-8204-f71e6c69787e.png)
-
 MODIFIER:
-![image](https://user-images.githubusercontent.com/93864104/232345115-f290ebe8-fe64-4d78-9607-40b9588f5a1d.png)
+![image](https://user-images.githubusercontent.com/93864104/232755106-6def0b19-c243-4ab4-a975-ab67dccae31f.png)
+
+![image](https://user-images.githubusercontent.com/93864104/232754830-036736ff-aa5a-4d9a-aed8-206332770185.png)
 
 CREER:
 ![image](https://user-images.githubusercontent.com/93864104/232345135-1ef6e7fa-8351-4183-abaa-1cf938760a99.png)
