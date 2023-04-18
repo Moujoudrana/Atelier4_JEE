@@ -30,16 +30,22 @@ Spring Security est un Framework de sécurité léger qui fournit une authentifi
 -L'application a pour objectif de gerer les utilisateurs, grace aux opération CRUD (Create, Read, Update, Delete).
 
 -L'interface suivante permet à un utilisateur normal ou à un administrateur de se connecter:
-![image](https://user-images.githubusercontent.com/93864104/232494385-e76d9da5-cb23-485b-9f63-0535934fdaac.png)
+![image](https://user-images.githubusercontent.com/93864104/232748965-39d0a713-4d0e-46f8-85b1-d60cbd35aea2.png)
 
 -Un utilisateur connecté a la possibilité de visualiser les patients:
-![image](https://user-images.githubusercontent.com/93864104/232344419-6caaa1d1-ba95-4fdc-bafc-3b27d488754e.png)
+![image](https://user-images.githubusercontent.com/93864104/232750038-b5a6421f-9991-46ed-be36-aee0d3c7540e.png)
 
 -Il est possible d'effectuer des recherches à partir des noms des patients:
-![image](https://user-images.githubusercontent.com/93864104/232497124-ae759105-a319-4c94-bb21-4c755ddffc56.png)
+![image](https://user-images.githubusercontent.com/93864104/232750754-018b252f-4a4a-48f5-acbb-33d4635bfde5.png)
 
--Il est impossible qu'un utilisateur supprime un patient:
-![image](https://user-images.githubusercontent.com/93864104/232498543-46b9eeb6-de13-40ab-9b02-ed54435aab62.png)
+-L'interface administrateur se presente comme suit:
+![image](https://user-images.githubusercontent.com/93864104/232751247-5db531a5-63e5-4b20-aa00-df7d0250d18d.png)
+
+-Il est impossible qu'un administrateur supprime un patient:
+![image](https://user-images.githubusercontent.com/93864104/232754128-fe90033c-2606-4736-b6f5-8b303d2075b2.png)
+
+-L'utilisateur avec l'id=6 est supprimé:
+![image](https://user-images.githubusercontent.com/93864104/232754221-c1ecdb57-4501-4add-a3d0-9d1534e5d92d.png)
 
 -L'administrateur a la possibilité de creer, modifier, visualiser et supprimer des utilisateurs.
 
